@@ -1,0 +1,1600 @@
+Ejecución 1:
+Elemento mínimo inicial: 6
+Elemento mínimo eliminado: 6
+Nuevo elemento mínimo: 8
+Tiempos de inserción: [2.384185791015625e-06, 1.9073486328125e-06, 1.430511474609375e-06, 9.5367431640625e-07, 3.0994415283203125e-06, 1.1920928955078125e-06]
+Tiempos de get_min: [1.6689300537109375e-06, 7.152557373046875e-07]
+Tiempos de delete_min: [3.5762786865234375e-06]
+
+Ejecución 2:
+Elemento mínimo inicial: 3
+Elemento mínimo eliminado: 3
+Nuevo elemento mínimo: 35
+Tiempos de inserción: [1.430511474609375e-06, 1.9073486328125e-06, 7.152557373046875e-07, 4.76837158203125e-07, 7.152557373046875e-07, 2.384185791015625e-07]
+Tiempos de get_min: [7.152557373046875e-07, 7.152557373046875e-07]
+Tiempos de delete_min: [3.337860107421875e-06]
+
+Ejecución 3:
+Elemento mínimo inicial: 29
+Elemento mínimo eliminado: 29
+Nuevo elemento mínimo: 59
+Tiempos de inserción: [7.152557373046875e-07, 9.5367431640625e-07, 9.5367431640625e-07, 7.152557373046875e-07, 7.152557373046875e-07, 7.152557373046875e-07]
+Tiempos de get_min: [1.1920928955078125e-06, 9.5367431640625e-07]
+Tiempos de delete_min: [5.4836273193359375e-06]
+
+Ejecución 4:
+Elemento mínimo inicial: 19
+Elemento mínimo eliminado: 19
+Nuevo elemento mínimo: 31
+Tiempos de inserción: [9.5367431640625e-07, 7.152557373046875e-07, 4.76837158203125e-07, 4.76837158203125e-07, 7.152557373046875e-07, 2.384185791015625e-07]
+Tiempos de get_min: [7.152557373046875e-07, 1.1920928955078125e-06]
+Tiempos de delete_min: [1.6689300537109375e-06]
+
+Ejecución 5:
+Elemento mínimo inicial: 9
+Elemento mínimo eliminado: 9
+Nuevo elemento mínimo: 24
+Tiempos de inserción: [1.1920928955078125e-06, 7.152557373046875e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07]
+Tiempos de get_min: [4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [1.6689300537109375e-06]
+
+Ejecución 6:
+Elemento mínimo inicial: 15
+Elemento mínimo eliminado: 15
+Nuevo elemento mínimo: 20
+Tiempos de inserción: [7.152557373046875e-07, 4.76837158203125e-07, 4.76837158203125e-07, 7.152557373046875e-07, 7.152557373046875e-07, 4.76837158203125e-07]
+Tiempos de get_min: [4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [2.6226043701171875e-06]
+
+Ejecución 7:
+Elemento mínimo inicial: 3
+Elemento mínimo eliminado: 3
+Nuevo elemento mínimo: 9
+Tiempos de inserción: [4.76837158203125e-07, 7.152557373046875e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [1.430511474609375e-06]
+
+Ejecución 8:
+Elemento mínimo inicial: 27
+Elemento mínimo eliminado: 27
+Nuevo elemento mínimo: 40
+Tiempos de inserción: [4.76837158203125e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [2.1457672119140625e-06]
+
+Ejecución 9:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 25
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 10:
+Elemento mínimo inicial: 13
+Elemento mínimo eliminado: 13
+Nuevo elemento mínimo: 40
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 7.152557373046875e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 4.76837158203125e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 11:
+Elemento mínimo inicial: 17
+Elemento mínimo eliminado: 17
+Nuevo elemento mínimo: 24
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 12:
+Elemento mínimo inicial: 23
+Elemento mínimo eliminado: 23
+Nuevo elemento mínimo: 24
+Tiempos de inserción: [7.152557373046875e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 9.5367431640625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [1.1920928955078125e-06]
+
+Ejecución 13:
+Elemento mínimo inicial: 2
+Elemento mínimo eliminado: 2
+Nuevo elemento mínimo: 3
+Tiempos de inserción: [4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 14:
+Elemento mínimo inicial: 12
+Elemento mínimo eliminado: 12
+Nuevo elemento mínimo: 37
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 15:
+Elemento mínimo inicial: 14
+Elemento mínimo eliminado: 14
+Nuevo elemento mínimo: 33
+Tiempos de inserción: [0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 16:
+Elemento mínimo inicial: 1
+Elemento mínimo eliminado: 1
+Nuevo elemento mínimo: 28
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [4.76837158203125e-07, 4.76837158203125e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 17:
+Elemento mínimo inicial: 28
+Elemento mínimo eliminado: 28
+Nuevo elemento mínimo: 31
+Tiempos de inserción: [2.384185791015625e-07, 7.152557373046875e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 18:
+Elemento mínimo inicial: 31
+Elemento mínimo eliminado: 31
+Nuevo elemento mínimo: 61
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 7.152557373046875e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 19:
+Elemento mínimo inicial: 2
+Elemento mínimo eliminado: 2
+Nuevo elemento mínimo: 4
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 20:
+Elemento mínimo inicial: 4
+Elemento mínimo eliminado: 4
+Nuevo elemento mínimo: 7
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 21:
+Elemento mínimo inicial: 4
+Elemento mínimo eliminado: 4
+Nuevo elemento mínimo: 11
+Tiempos de inserción: [2.384185791015625e-07, 0.0, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 22:
+Elemento mínimo inicial: 9
+Elemento mínimo eliminado: 9
+Nuevo elemento mínimo: 12
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 23:
+Elemento mínimo inicial: 30
+Elemento mínimo eliminado: 30
+Nuevo elemento mínimo: 47
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 24:
+Elemento mínimo inicial: 46
+Elemento mínimo eliminado: 46
+Nuevo elemento mínimo: 54
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 25:
+Elemento mínimo inicial: 35
+Elemento mínimo eliminado: 35
+Nuevo elemento mínimo: 44
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 26:
+Elemento mínimo inicial: 28
+Elemento mínimo eliminado: 28
+Nuevo elemento mínimo: 55
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 27:
+Elemento mínimo inicial: 17
+Elemento mínimo eliminado: 17
+Nuevo elemento mínimo: 19
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 28:
+Elemento mínimo inicial: 3
+Elemento mínimo eliminado: 3
+Nuevo elemento mínimo: 5
+Tiempos de inserción: [2.384185791015625e-07, 0.0, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 29:
+Elemento mínimo inicial: 10
+Elemento mínimo eliminado: 10
+Nuevo elemento mínimo: 18
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 30:
+Elemento mínimo inicial: 4
+Elemento mínimo eliminado: 4
+Nuevo elemento mínimo: 8
+Tiempos de inserción: [2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07]
+Tiempos de get_min: [4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 31:
+Elemento mínimo inicial: 12
+Elemento mínimo eliminado: 12
+Nuevo elemento mínimo: 32
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 32:
+Elemento mínimo inicial: 1
+Elemento mínimo eliminado: 1
+Nuevo elemento mínimo: 8
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 33:
+Elemento mínimo inicial: 33
+Elemento mínimo eliminado: 33
+Nuevo elemento mínimo: 36
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 34:
+Elemento mínimo inicial: 13
+Elemento mínimo eliminado: 13
+Nuevo elemento mínimo: 14
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 35:
+Elemento mínimo inicial: 16
+Elemento mínimo eliminado: 16
+Nuevo elemento mínimo: 18
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 36:
+Elemento mínimo inicial: 38
+Elemento mínimo eliminado: 38
+Nuevo elemento mínimo: 46
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 7.152557373046875e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 37:
+Elemento mínimo inicial: 9
+Elemento mínimo eliminado: 9
+Nuevo elemento mínimo: 24
+Tiempos de inserción: [0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 0.0]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 38:
+Elemento mínimo inicial: 1
+Elemento mínimo eliminado: 1
+Nuevo elemento mínimo: 49
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 39:
+Elemento mínimo inicial: 27
+Elemento mínimo eliminado: 27
+Nuevo elemento mínimo: 43
+Tiempos de inserción: [0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 40:
+Elemento mínimo inicial: 9
+Elemento mínimo eliminado: 9
+Nuevo elemento mínimo: 45
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 41:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 13
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 42:
+Elemento mínimo inicial: 10
+Elemento mínimo eliminado: 10
+Nuevo elemento mínimo: 12
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 43:
+Elemento mínimo inicial: 7
+Elemento mínimo eliminado: 7
+Nuevo elemento mínimo: 25
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 44:
+Elemento mínimo inicial: 17
+Elemento mínimo eliminado: 17
+Nuevo elemento mínimo: 25
+Tiempos de inserción: [0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 0.0]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 45:
+Elemento mínimo inicial: 1
+Elemento mínimo eliminado: 1
+Nuevo elemento mínimo: 19
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 46:
+Elemento mínimo inicial: 9
+Elemento mínimo eliminado: 9
+Nuevo elemento mínimo: 29
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 47:
+Elemento mínimo inicial: 11
+Elemento mínimo eliminado: 11
+Nuevo elemento mínimo: 12
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 48:
+Elemento mínimo inicial: 21
+Elemento mínimo eliminado: 21
+Nuevo elemento mínimo: 55
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 49:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 19
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 50:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 46
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 51:
+Elemento mínimo inicial: 40
+Elemento mínimo eliminado: 40
+Nuevo elemento mínimo: 50
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 52:
+Elemento mínimo inicial: 7
+Elemento mínimo eliminado: 7
+Nuevo elemento mínimo: 31
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 53:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 31
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 54:
+Elemento mínimo inicial: 1
+Elemento mínimo eliminado: 1
+Nuevo elemento mínimo: 2
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 55:
+Elemento mínimo inicial: 2
+Elemento mínimo eliminado: 2
+Nuevo elemento mínimo: 4
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 56:
+Elemento mínimo inicial: 12
+Elemento mínimo eliminado: 12
+Nuevo elemento mínimo: 71
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [4.76837158203125e-07, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 57:
+Elemento mínimo inicial: 6
+Elemento mínimo eliminado: 6
+Nuevo elemento mínimo: 21
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 58:
+Elemento mínimo inicial: 19
+Elemento mínimo eliminado: 19
+Nuevo elemento mínimo: 52
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 59:
+Elemento mínimo inicial: 47
+Elemento mínimo eliminado: 47
+Nuevo elemento mínimo: 67
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 60:
+Elemento mínimo inicial: 1
+Elemento mínimo eliminado: 1
+Nuevo elemento mínimo: 3
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 61:
+Elemento mínimo inicial: 4
+Elemento mínimo eliminado: 4
+Nuevo elemento mínimo: 47
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 62:
+Elemento mínimo inicial: 15
+Elemento mínimo eliminado: 15
+Nuevo elemento mínimo: 16
+Tiempos de inserción: [9.5367431640625e-07, 7.152557373046875e-07, 2.384185791015625e-07, 2.384185791015625e-07, 7.152557373046875e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [1.1920928955078125e-06]
+
+Ejecución 63:
+Elemento mínimo inicial: 26
+Elemento mínimo eliminado: 26
+Nuevo elemento mínimo: 37
+Tiempos de inserción: [4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 64:
+Elemento mínimo inicial: 10
+Elemento mínimo eliminado: 10
+Nuevo elemento mínimo: 11
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 65:
+Elemento mínimo inicial: 11
+Elemento mínimo eliminado: 11
+Nuevo elemento mínimo: 55
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 66:
+Elemento mínimo inicial: 17
+Elemento mínimo eliminado: 17
+Nuevo elemento mínimo: 31
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [1.430511474609375e-06]
+
+Ejecución 67:
+Elemento mínimo inicial: 17
+Elemento mínimo eliminado: 17
+Nuevo elemento mínimo: 30
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [1.1920928955078125e-06]
+
+Ejecución 68:
+Elemento mínimo inicial: 22
+Elemento mínimo eliminado: 22
+Nuevo elemento mínimo: 40
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 69:
+Elemento mínimo inicial: 19
+Elemento mínimo eliminado: 19
+Nuevo elemento mínimo: 31
+Tiempos de inserción: [4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07, 7.152557373046875e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 70:
+Elemento mínimo inicial: 2
+Elemento mínimo eliminado: 2
+Nuevo elemento mínimo: 39
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 71:
+Elemento mínimo inicial: 10
+Elemento mínimo eliminado: 10
+Nuevo elemento mínimo: 20
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 72:
+Elemento mínimo inicial: 15
+Elemento mínimo eliminado: 15
+Nuevo elemento mínimo: 28
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 73:
+Elemento mínimo inicial: 29
+Elemento mínimo eliminado: 29
+Nuevo elemento mínimo: 47
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 0.0, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 74:
+Elemento mínimo inicial: 29
+Elemento mínimo eliminado: 29
+Nuevo elemento mínimo: 46
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 75:
+Elemento mínimo inicial: 14
+Elemento mínimo eliminado: 14
+Nuevo elemento mínimo: 18
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 76:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 8
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 77:
+Elemento mínimo inicial: 2
+Elemento mínimo eliminado: 2
+Nuevo elemento mínimo: 9
+Tiempos de inserción: [4.76837158203125e-07, 7.152557373046875e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 78:
+Elemento mínimo inicial: 28
+Elemento mínimo eliminado: 28
+Nuevo elemento mínimo: 35
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [1.1920928955078125e-06]
+
+Ejecución 79:
+Elemento mínimo inicial: 12
+Elemento mínimo eliminado: 12
+Nuevo elemento mínimo: 23
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 80:
+Elemento mínimo inicial: 24
+Elemento mínimo eliminado: 24
+Nuevo elemento mínimo: 32
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 81:
+Elemento mínimo inicial: 45
+Elemento mínimo eliminado: 45
+Nuevo elemento mínimo: 46
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 82:
+Elemento mínimo inicial: 9
+Elemento mínimo eliminado: 9
+Nuevo elemento mínimo: 42
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 83:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 20
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 84:
+Elemento mínimo inicial: 13
+Elemento mínimo eliminado: 13
+Nuevo elemento mínimo: 44
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 85:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 15
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 0.0, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 86:
+Elemento mínimo inicial: 30
+Elemento mínimo eliminado: 30
+Nuevo elemento mínimo: 34
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 7.152557373046875e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 87:
+Elemento mínimo inicial: 14
+Elemento mínimo eliminado: 14
+Nuevo elemento mínimo: 17
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 0.0]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 88:
+Elemento mínimo inicial: 11
+Elemento mínimo eliminado: 11
+Nuevo elemento mínimo: 22
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 89:
+Elemento mínimo inicial: 27
+Elemento mínimo eliminado: 27
+Nuevo elemento mínimo: 35
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 90:
+Elemento mínimo inicial: 8
+Elemento mínimo eliminado: 8
+Nuevo elemento mínimo: 35
+Tiempos de inserción: [2.384185791015625e-07, 0.0, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 91:
+Elemento mínimo inicial: 2
+Elemento mínimo eliminado: 2
+Nuevo elemento mínimo: 9
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 7.152557373046875e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 92:
+Elemento mínimo inicial: 11
+Elemento mínimo eliminado: 11
+Nuevo elemento mínimo: 25
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 93:
+Elemento mínimo inicial: 6
+Elemento mínimo eliminado: 6
+Nuevo elemento mínimo: 33
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 94:
+Elemento mínimo inicial: 38
+Elemento mínimo eliminado: 38
+Nuevo elemento mínimo: 48
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 95:
+Elemento mínimo inicial: 16
+Elemento mínimo eliminado: 16
+Nuevo elemento mínimo: 30
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 96:
+Elemento mínimo inicial: 16
+Elemento mínimo eliminado: 16
+Nuevo elemento mínimo: 55
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 97:
+Elemento mínimo inicial: 24
+Elemento mínimo eliminado: 24
+Nuevo elemento mínimo: 25
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 0.0]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 98:
+Elemento mínimo inicial: 7
+Elemento mínimo eliminado: 7
+Nuevo elemento mínimo: 43
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 99:
+Elemento mínimo inicial: 2
+Elemento mínimo eliminado: 2
+Nuevo elemento mínimo: 14
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 100:
+Elemento mínimo inicial: 1
+Elemento mínimo eliminado: 1
+Nuevo elemento mínimo: 30
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 101:
+Elemento mínimo inicial: 9
+Elemento mínimo eliminado: 9
+Nuevo elemento mínimo: 25
+Tiempos de inserción: [2.384185791015625e-07, 7.152557373046875e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 102:
+Elemento mínimo inicial: 7
+Elemento mínimo eliminado: 7
+Nuevo elemento mínimo: 19
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 103:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 25
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 104:
+Elemento mínimo inicial: 18
+Elemento mínimo eliminado: 18
+Nuevo elemento mínimo: 29
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 105:
+Elemento mínimo inicial: 11
+Elemento mínimo eliminado: 11
+Nuevo elemento mínimo: 12
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 106:
+Elemento mínimo inicial: 2
+Elemento mínimo eliminado: 2
+Nuevo elemento mínimo: 50
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 107:
+Elemento mínimo inicial: 21
+Elemento mínimo eliminado: 21
+Nuevo elemento mínimo: 45
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [4.76837158203125e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 108:
+Elemento mínimo inicial: 6
+Elemento mínimo eliminado: 6
+Nuevo elemento mínimo: 24
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 109:
+Elemento mínimo inicial: 20
+Elemento mínimo eliminado: 20
+Nuevo elemento mínimo: 26
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 0.0]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 110:
+Elemento mínimo inicial: 22
+Elemento mínimo eliminado: 22
+Nuevo elemento mínimo: 25
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 111:
+Elemento mínimo inicial: 9
+Elemento mínimo eliminado: 9
+Nuevo elemento mínimo: 15
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 112:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 8
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 7.152557373046875e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 113:
+Elemento mínimo inicial: 16
+Elemento mínimo eliminado: 16
+Nuevo elemento mínimo: 21
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 0.0, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 114:
+Elemento mínimo inicial: 7
+Elemento mínimo eliminado: 7
+Nuevo elemento mínimo: 26
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 115:
+Elemento mínimo inicial: 30
+Elemento mínimo eliminado: 30
+Nuevo elemento mínimo: 45
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07]
+Tiempos de get_min: [4.76837158203125e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 116:
+Elemento mínimo inicial: 15
+Elemento mínimo eliminado: 15
+Nuevo elemento mínimo: 28
+Tiempos de inserción: [0.0, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 117:
+Elemento mínimo inicial: 7
+Elemento mínimo eliminado: 7
+Nuevo elemento mínimo: 14
+Tiempos de inserción: [0.0, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 118:
+Elemento mínimo inicial: 24
+Elemento mínimo eliminado: 24
+Nuevo elemento mínimo: 42
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 7.152557373046875e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 119:
+Elemento mínimo inicial: 12
+Elemento mínimo eliminado: 12
+Nuevo elemento mínimo: 15
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 0.0]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 120:
+Elemento mínimo inicial: 10
+Elemento mínimo eliminado: 10
+Nuevo elemento mínimo: 16
+Tiempos de inserción: [2.384185791015625e-07, 0.0, 4.76837158203125e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 121:
+Elemento mínimo inicial: 10
+Elemento mínimo eliminado: 10
+Nuevo elemento mínimo: 13
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 122:
+Elemento mínimo inicial: 10
+Elemento mínimo eliminado: 10
+Nuevo elemento mínimo: 20
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 123:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 37
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 124:
+Elemento mínimo inicial: 2
+Elemento mínimo eliminado: 2
+Nuevo elemento mínimo: 18
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 125:
+Elemento mínimo inicial: 32
+Elemento mínimo eliminado: 32
+Nuevo elemento mínimo: 36
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 126:
+Elemento mínimo inicial: 46
+Elemento mínimo eliminado: 46
+Nuevo elemento mínimo: 62
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 127:
+Elemento mínimo inicial: 23
+Elemento mínimo eliminado: 23
+Nuevo elemento mínimo: 26
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 128:
+Elemento mínimo inicial: 47
+Elemento mínimo eliminado: 47
+Nuevo elemento mínimo: 62
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 7.152557373046875e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 129:
+Elemento mínimo inicial: 19
+Elemento mínimo eliminado: 19
+Nuevo elemento mínimo: 21
+Tiempos de inserción: [4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 130:
+Elemento mínimo inicial: 6
+Elemento mínimo eliminado: 6
+Nuevo elemento mínimo: 28
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 131:
+Elemento mínimo inicial: 13
+Elemento mínimo eliminado: 13
+Nuevo elemento mínimo: 28
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 132:
+Elemento mínimo inicial: 2
+Elemento mínimo eliminado: 2
+Nuevo elemento mínimo: 15
+Tiempos de inserción: [0.0, 2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 133:
+Elemento mínimo inicial: 10
+Elemento mínimo eliminado: 10
+Nuevo elemento mínimo: 22
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 134:
+Elemento mínimo inicial: 10
+Elemento mínimo eliminado: 10
+Nuevo elemento mínimo: 13
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 7.152557373046875e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 135:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 24
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 136:
+Elemento mínimo inicial: 21
+Elemento mínimo eliminado: 21
+Nuevo elemento mínimo: 80
+Tiempos de inserción: [0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 137:
+Elemento mínimo inicial: 7
+Elemento mínimo eliminado: 7
+Nuevo elemento mínimo: 10
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 4.76837158203125e-07]
+Tiempos de delete_min: [2.3603439331054688e-05]
+
+Ejecución 138:
+Elemento mínimo inicial: 14
+Elemento mínimo eliminado: 14
+Nuevo elemento mínimo: 47
+Tiempos de inserción: [7.152557373046875e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 7.152557373046875e-07, 2.384185791015625e-07]
+Tiempos de get_min: [4.76837158203125e-07, 4.76837158203125e-07]
+Tiempos de delete_min: [1.430511474609375e-06]
+
+Ejecución 139:
+Elemento mínimo inicial: 55
+Elemento mínimo eliminado: 55
+Nuevo elemento mínimo: 66
+Tiempos de inserción: [2.384185791015625e-07, 7.152557373046875e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 140:
+Elemento mínimo inicial: 22
+Elemento mínimo eliminado: 22
+Nuevo elemento mínimo: 27
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 141:
+Elemento mínimo inicial: 3
+Elemento mínimo eliminado: 3
+Nuevo elemento mínimo: 23
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [1.1920928955078125e-06]
+
+Ejecución 142:
+Elemento mínimo inicial: 22
+Elemento mínimo eliminado: 22
+Nuevo elemento mínimo: 58
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 0.0]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 143:
+Elemento mínimo inicial: 9
+Elemento mínimo eliminado: 9
+Nuevo elemento mínimo: 15
+Tiempos de inserción: [0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 144:
+Elemento mínimo inicial: 30
+Elemento mínimo eliminado: 30
+Nuevo elemento mínimo: 32
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 145:
+Elemento mínimo inicial: 22
+Elemento mínimo eliminado: 22
+Nuevo elemento mínimo: 27
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 7.152557373046875e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 146:
+Elemento mínimo inicial: 12
+Elemento mínimo eliminado: 12
+Nuevo elemento mínimo: 58
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [4.76837158203125e-07, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 147:
+Elemento mínimo inicial: 8
+Elemento mínimo eliminado: 8
+Nuevo elemento mínimo: 23
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 148:
+Elemento mínimo inicial: 29
+Elemento mínimo eliminado: 29
+Nuevo elemento mínimo: 42
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 149:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 9
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 7.152557373046875e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 150:
+Elemento mínimo inicial: 29
+Elemento mínimo eliminado: 29
+Nuevo elemento mínimo: 36
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 151:
+Elemento mínimo inicial: 10
+Elemento mínimo eliminado: 10
+Nuevo elemento mínimo: 24
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 0.0]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 152:
+Elemento mínimo inicial: 30
+Elemento mínimo eliminado: 30
+Nuevo elemento mínimo: 49
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 153:
+Elemento mínimo inicial: 4
+Elemento mínimo eliminado: 4
+Nuevo elemento mínimo: 20
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 154:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 15
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 155:
+Elemento mínimo inicial: 12
+Elemento mínimo eliminado: 12
+Nuevo elemento mínimo: 13
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 156:
+Elemento mínimo inicial: 57
+Elemento mínimo eliminado: 57
+Nuevo elemento mínimo: 64
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 157:
+Elemento mínimo inicial: 2
+Elemento mínimo eliminado: 2
+Nuevo elemento mínimo: 35
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0, 4.76837158203125e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 158:
+Elemento mínimo inicial: 2
+Elemento mínimo eliminado: 2
+Nuevo elemento mínimo: 5
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 159:
+Elemento mínimo inicial: 4
+Elemento mínimo eliminado: 4
+Nuevo elemento mínimo: 17
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 160:
+Elemento mínimo inicial: 2
+Elemento mínimo eliminado: 2
+Nuevo elemento mínimo: 11
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [1.1920928955078125e-06]
+
+Ejecución 161:
+Elemento mínimo inicial: 7
+Elemento mínimo eliminado: 7
+Nuevo elemento mínimo: 14
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 7.152557373046875e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 162:
+Elemento mínimo inicial: 20
+Elemento mínimo eliminado: 20
+Nuevo elemento mínimo: 35
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 163:
+Elemento mínimo inicial: 25
+Elemento mínimo eliminado: 25
+Nuevo elemento mínimo: 25
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 164:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 42
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 165:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 6
+Tiempos de inserción: [7.152557373046875e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [1.6689300537109375e-06]
+
+Ejecución 166:
+Elemento mínimo inicial: 12
+Elemento mínimo eliminado: 12
+Nuevo elemento mínimo: 20
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [1.1920928955078125e-06]
+
+Ejecución 167:
+Elemento mínimo inicial: 7
+Elemento mínimo eliminado: 7
+Nuevo elemento mínimo: 10
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 168:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 15
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 169:
+Elemento mínimo inicial: 4
+Elemento mínimo eliminado: 4
+Nuevo elemento mínimo: 9
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [1.1920928955078125e-06]
+
+Ejecución 170:
+Elemento mínimo inicial: 38
+Elemento mínimo eliminado: 38
+Nuevo elemento mínimo: 43
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 171:
+Elemento mínimo inicial: 17
+Elemento mínimo eliminado: 17
+Nuevo elemento mínimo: 19
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 172:
+Elemento mínimo inicial: 1
+Elemento mínimo eliminado: 1
+Nuevo elemento mínimo: 5
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 173:
+Elemento mínimo inicial: 21
+Elemento mínimo eliminado: 21
+Nuevo elemento mínimo: 34
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 174:
+Elemento mínimo inicial: 3
+Elemento mínimo eliminado: 3
+Nuevo elemento mínimo: 28
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 175:
+Elemento mínimo inicial: 12
+Elemento mínimo eliminado: 12
+Nuevo elemento mínimo: 14
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 176:
+Elemento mínimo inicial: 8
+Elemento mínimo eliminado: 8
+Nuevo elemento mínimo: 31
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 177:
+Elemento mínimo inicial: 7
+Elemento mínimo eliminado: 7
+Nuevo elemento mínimo: 47
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 178:
+Elemento mínimo inicial: 12
+Elemento mínimo eliminado: 12
+Nuevo elemento mínimo: 57
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 179:
+Elemento mínimo inicial: 25
+Elemento mínimo eliminado: 25
+Nuevo elemento mínimo: 67
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 180:
+Elemento mínimo inicial: 20
+Elemento mínimo eliminado: 20
+Nuevo elemento mínimo: 28
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07, 0.0]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 181:
+Elemento mínimo inicial: 17
+Elemento mínimo eliminado: 17
+Nuevo elemento mínimo: 34
+Tiempos de inserción: [0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 182:
+Elemento mínimo inicial: 10
+Elemento mínimo eliminado: 10
+Nuevo elemento mínimo: 19
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de delete_min: [9.5367431640625e-07]
+
+Ejecución 183:
+Elemento mínimo inicial: 16
+Elemento mínimo eliminado: 16
+Nuevo elemento mínimo: 20
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 184:
+Elemento mínimo inicial: 25
+Elemento mínimo eliminado: 25
+Nuevo elemento mínimo: 39
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 185:
+Elemento mínimo inicial: 19
+Elemento mínimo eliminado: 19
+Nuevo elemento mínimo: 27
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 186:
+Elemento mínimo inicial: 6
+Elemento mínimo eliminado: 6
+Nuevo elemento mínimo: 8
+Tiempos de inserción: [2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 187:
+Elemento mínimo inicial: 31
+Elemento mínimo eliminado: 31
+Nuevo elemento mínimo: 51
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 7.152557373046875e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 188:
+Elemento mínimo inicial: 28
+Elemento mínimo eliminado: 28
+Nuevo elemento mínimo: 52
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 0.0]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 189:
+Elemento mínimo inicial: 1
+Elemento mínimo eliminado: 1
+Nuevo elemento mínimo: 5
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 190:
+Elemento mínimo inicial: 12
+Elemento mínimo eliminado: 12
+Nuevo elemento mínimo: 32
+Tiempos de inserción: [2.384185791015625e-07, 0.0, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 191:
+Elemento mínimo inicial: 12
+Elemento mínimo eliminado: 12
+Nuevo elemento mínimo: 16
+Tiempos de inserción: [4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 192:
+Elemento mínimo inicial: 17
+Elemento mínimo eliminado: 17
+Nuevo elemento mínimo: 20
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 193:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 12
+Tiempos de inserción: [0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 2.384185791015625e-07]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 194:
+Elemento mínimo inicial: 8
+Elemento mínimo eliminado: 8
+Nuevo elemento mínimo: 12
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 195:
+Elemento mínimo inicial: 7
+Elemento mínimo eliminado: 7
+Nuevo elemento mínimo: 9
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 196:
+Elemento mínimo inicial: 6
+Elemento mínimo eliminado: 6
+Nuevo elemento mínimo: 10
+Tiempos de inserción: [2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 4.76837158203125e-07, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 197:
+Elemento mínimo inicial: 5
+Elemento mínimo eliminado: 5
+Nuevo elemento mínimo: 12
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07]
+Tiempos de get_min: [2.384185791015625e-07, 0.0]
+Tiempos de delete_min: [4.76837158203125e-07]
+
+Ejecución 198:
+Elemento mínimo inicial: 43
+Elemento mínimo eliminado: 43
+Nuevo elemento mínimo: 53
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 0.0, 2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de get_min: [0.0, 0.0]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 199:
+Elemento mínimo inicial: 15
+Elemento mínimo eliminado: 15
+Nuevo elemento mínimo: 29
+Tiempos de inserción: [2.384185791015625e-07, 2.384185791015625e-07, 2.384185791015625e-07, 4.76837158203125e-07, 4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de get_min: [2.384185791015625e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [7.152557373046875e-07]
+
+Ejecución 200:
+Elemento mínimo inicial: 23
+Elemento mínimo eliminado: 23
+Nuevo elemento mínimo: 45
+Tiempos de inserción: [7.033348083496094e-05, 7.152557373046875e-07, 4.76837158203125e-07, 4.76837158203125e-07, 4.76837158203125e-07, 4.76837158203125e-07]
+Tiempos de get_min: [4.76837158203125e-07, 2.384185791015625e-07]
+Tiempos de delete_min: [1.6689300537109375e-06]
+
